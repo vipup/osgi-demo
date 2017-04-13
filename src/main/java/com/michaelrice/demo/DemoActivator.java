@@ -13,7 +13,7 @@ public class DemoActivator implements BundleActivator {
 	
     @Override
     public void start(BundleContext bundleContext) throws Exception {
-        System.out.println("STARTING DEMO: hello 1.0.7-SNAPSHOT#"+(counter++)+", world @[" +bundleContext+"]");
+        System.out.println("STARTING DEMO: hello V 1.0.8 #"+(counter++)+", world @[" +bundleContext+"]");
         Enumeration<URL> resources = getClass().getClassLoader()
         		  .getResources("META-INF/MANIFEST.MF");
         		while (resources.hasMoreElements()) {

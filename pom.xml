@@ -9,7 +9,7 @@
 
     <groupId>com.michaelrice</groupId>
     <artifactId>osgi-demo-next</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.8</version>
     <packaging>jar</packaging>
 
 
