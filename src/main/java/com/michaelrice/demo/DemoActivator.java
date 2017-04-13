@@ -8,7 +8,7 @@ public class DemoActivator implements BundleActivator {
 	
     @Override
     public void start(BundleContext bundleContext) throws Exception {
-        System.out.println("STARTING DEMO 1.0.4+1........: hello, world @[" +bundleContext+"]");
+        System.out.println("STARTING DEMO 1.0.5..: hello, world @[" +bundleContext+"]");
     }
 
     @Override

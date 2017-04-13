@@ -1,5 +1,5 @@
 Bundle-SymbolicName: osgi-example
-Bundle-Version: 1.0.4.SNAPSHOT
-Import-Package: com.michaelrice.demo;version="1.0.4.SNAPSHOT",org.osgi.framework
-Export-Package: com.michaelrice.demo;version="1.0.4.SNAPSHOT"
+Bundle-Version: 1.0.5.SNAPSHOT
+Import-Package: com.michaelrice.demo;version="1.0.5.SNAPSHOT",org.osgi.framework
+Export-Package: com.michaelrice.demo;version="1.0.5.SNAPSHOT"
 Bundle-Activator: com.michaelrice.demo.DemoActivator
